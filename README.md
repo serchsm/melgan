@@ -1,4 +1,4 @@
-# melgan
+# MelGAN
 TF implementation of MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis, Kumar et al  
 # Example Run
 The notebook `melgan/MELGAN.ipynb` contains a collab example using a Nvidia Tesla T4 GPU and the LJSpeech dataset.  
